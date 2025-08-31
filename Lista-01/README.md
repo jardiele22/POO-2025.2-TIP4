@@ -1,5 +1,9 @@
-# Lista 1 dos exercícios resolvidos (5) e dos propostos (10).
-# Questões de 1 a 5 dos exercícios propostos do capítulo 3 do livro Fundamentos da Programação de Computadores
+# Lista 1 dos exercícios resolvidos (10) e dos propostos (5).
+##capítulo 3 do livro Fundamentos da Programação de Computadores
+
+# Questões de 1 a 10 dos exercícios Resolvidos 
+
+# Questões de 1 a 5 dos exercícios propostos 
 
 ## 1 | Faça um programa que receba dois números, calcule e mostre a subtração do primeiro número pelo segundo.
 ## 2 | Faça um programa que receba três números, calcule e mostre a multiplicação desses números.
