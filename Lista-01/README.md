@@ -1,5 +1,4 @@
-# Lista 1 dos exercícios resolvidos (10) e dos propostos (5).
-## capítulo 3 do livro Fundamentos da Programação de Computadores
+# capítulo 3 do livro Fundamentos da Programação de Computadores
 
 # Questões de 1 a 10 dos exercícios resolvidos
 ##  1 | Faça um programa que receba quatro números inteiros, calcule e mostre a soma desses números.
