@@ -16,7 +16,7 @@
 ## 8 | Faça um programa que mostre o menu de opções a seguir, receba a opção do usuário e os dados necessários para executar cada operação.
 Menu de opções:
 
- Somar dois números.
-Raiz quadrada de um número. Digite a opção desejada:
+1.Somar dois números.
+2.Raiz quadrada de um número. Digite a opção desejada:
 ## 9 | Faça um programa que mostre a data e a hora do sistema nos seguintes formatos: DD/MM/AAAA - mês por extenso e hora:minuto.
 ## 10 | Faça um programa que determine a data cronologicamente maior entre duas datas fornecidas pelo usuário. Cada data deve ser composta por três valores inteiros, em que o primeiro representa o dia, o segundo, o mês e o terceiro, o ano.
