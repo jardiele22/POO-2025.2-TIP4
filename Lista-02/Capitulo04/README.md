@@ -14,9 +14,9 @@
 ## 6 | Faça um programa que receba um número inteiro e verifique se é par ou ímpar.
 ## 7 | Faça um programa que receba quatro valores: I, A, B e C. Desses valores, I é inteiro e positivo, A, B e C são reais. Escreva os números A, B e C obedecendo à tabela a seguir. Suponha que o valor digitado para I seja sempre um valor válido, ou seja, 1, 2 ou 3, e que os números digitados sejam diferentes um do outro.
 ## 8 | Faça um programa que mostre o menu de opções a seguir, receba a opção do usuário e os dados necessários para executar cada operação.
-## Menu de opções:
+Menu de opções:
 
-## Somar dois números.
-## Raiz quadrada de um número. Digite a opção desejada:
+ Somar dois números.
+Raiz quadrada de um número. Digite a opção desejada:
 ## 9 | Faça um programa que mostre a data e a hora do sistema nos seguintes formatos: DD/MM/AAAA - mês por extenso e hora:minuto.
 ## 10 | Faça um programa que determine a data cronologicamente maior entre duas datas fornecidas pelo usuário. Cada data deve ser composta por três valores inteiros, em que o primeiro representa o dia, o segundo, o mês e o terceiro, o ano.
